@@ -12,7 +12,7 @@ RMIP="10.11.99.1"
 SSHPORT="22"
 
 # Local configuration
-MAINDIR="/home/simon/rM"
+MAINDIR="$HOME/rM"
 BACKUPDIR="$MAINDIR/backup/"             # rotating backups of all rM contents
 UPLOADDIR="$MAINDIR/upload/"             # all files here will be sent to rM
 OUTPUTDIR="$MAINDIR/files/"              # PDFs of everything on the rM
